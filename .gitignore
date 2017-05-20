@@ -10,3 +10,5 @@
 www.ats.ucla.edu/stat/data/binary.csv
 
 *.gz
+
+*.csv
